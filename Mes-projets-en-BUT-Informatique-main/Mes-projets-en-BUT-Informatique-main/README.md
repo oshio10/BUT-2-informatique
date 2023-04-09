@@ -1,5 +1,5 @@
-# Mes-projets-en-BUT-Informatique
+## Mes-projets-en-BUT-Informatique
 
-En cours de création \n,
+#En cours de création 
 
 Avec l'aide de Yassine belagra
